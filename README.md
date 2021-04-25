@@ -9,8 +9,11 @@ StdID | Name
 
 ## Description ##
 This repository contains assignments and project submitted to AI course offered in Fall 2021 at PafKiet.
-AI Project Report 
+
+AI Project Report :
+
 Submitted By: **Uzair Ahmed(61842)**, Wali (61030)
+
 Group Leader: **Uzair Ahmed** 
 
 K-nearest neighbors' calculation is generally novel and straightforward. It is also utilized in AI to use it for both the issues known as order and relapse. The most memorable part it is not difficult to carry out and simple to get. It has a problem it is moderate and the size of the information used to develops. 
