@@ -30,6 +30,8 @@ Naïve Bayes Classifier s an AI model fundamentally utilized for an enormous mea
 Contribution :
 **Uzair (61842)** i have weighted code of all these algorithms, i.e., convolution of KNN, SVM, and MultinomialKB in 5x5, 7x7, and 9x9
 
-wali (61030) i weighted convolution of KNN 5x5, 7x7, 9x9, SVM 5x5, 7x7, 9x9 and MultinomailNB 5x5, 7x7, 9x9
+wali (61030) i weighted convolution of KNN 5x5, 7x7, 9x9, SVM 5x5, 7x7, 9x9 and MultinomailNB 5x5, 7x7, 9x9. Wali has imported Libraries and Defined functions and declare 2D Arrays in first section of all datasets file.
+
+Uzair has completed second part which is importing csv files and declaring for loops and implementing it and printing final output and score of all the dataset in the end. We both have worked half-half code on python."
 
 Convolution is accomplished by applying it over and over on the test document until our ideal outcome it acquired
